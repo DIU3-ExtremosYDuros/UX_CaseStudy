@@ -3,7 +3,7 @@ Prácticas Diseño Interfaces de Usuario (Tema: .... )
 
 [Guiones de prácticas](GuionesPracticas/)
 
-Grupo: DIUx_AABB.  Curso: 2024/25 
+Grupo: DIU3_ExtremosYDuros.  Curso: 2024/25 
 
 Actualizado: xx/xx/2025
 
@@ -21,13 +21,9 @@ Logotipo:
 
 Miembros:
  * :bust_in_silhouette:  Juan Pedro Moreno Ruiz  :octocat:  [https://github.com/Karylus](https://github.com/Karylus)
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:  Salvador Molina Plaza   :octocat:
 
 ----- 
-
-
->>> Este documento es el esqueleto del Case Study que explica el proceso de desarrollo de las 5 prácticas de DIU. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este tipo de texto / comentarios desde la práctica 1 conforme proceda a cada paso
-
 
 # Proceso de Diseño 
 
@@ -35,14 +31,13 @@ Miembros:
 
 ## Paso 1. UX User & Desk Research & Analisis 
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
-
 ### 1.a User Reseach Plan
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
+El User Research se va a centrar en el contexto del Reciclaje y la Artenasía en Granada, teniendo como objetivo en este plan el de evaluar la experiencia de la compra y la navegación en la web de Re-Made in Granada, para detectar las posibles mejoras en accesibilidad y navegación del usuario en la web. Para identificar las distintas áreas de mejora, nos vamos a basar en la experiencia que tenemos usando otras páginas web de distintas tiendas de ropa mucho más grandes, aunque no sean artesanas, como pueden ser Zara, H&M o Springfield. 
+
+Existen varios perfiles que hemos identificado como principales usuarios del sistema. El primero de ellos es de una persona joven que está interesada por el medio ambiente y busca comprar ropa artesanal. El segundo es una persona mayor que  
 
 
 ### 1.b Competitive Analysis
