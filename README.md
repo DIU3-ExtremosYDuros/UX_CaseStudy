@@ -20,7 +20,7 @@ Logotipo:
 >>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
 
 Miembros:
- * :bust_in_silhouette:  Juan Pedro Moreno Ruiz     :octocat:     
+ * :bust_in_silhouette:  Juan Pedro Moreno Ruiz  :octocat:  [https://github.com/Karylus](https://github.com/Karylus)
  * :bust_in_silhouette:  BB     :octocat:
 
 ----- 
