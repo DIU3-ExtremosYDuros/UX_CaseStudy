@@ -21,7 +21,7 @@ Logotipo:
 
 Miembros:
  * :bust_in_silhouette:  Juan Pedro Moreno Ruiz  :octocat:  [https://github.com/Karylus](https://github.com/Karylus)
- * :bust_in_silhouette:  Salvador Molina Plaza   :octocat:
+ * :bust_in_silhouette:  Salvador Molina Plaza   :octocat: [https://github.com/salvadormolinaa](https://github.com/salvadormolinaa)
 
 ----- 
 
