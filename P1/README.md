@@ -5,6 +5,7 @@
 - 2 Personas
   - [Amanda Álvarez](Persona&UserJourneyMap1.pdf)
 - 2 User Journey Map  ( 1 por persona)
+  - [Amanda Álvarez] (Persona&UserJourneyMap1.pdf)
 - Revisión de Usabilidad 
 
 
