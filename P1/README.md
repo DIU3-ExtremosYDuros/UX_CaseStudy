@@ -2,9 +2,7 @@
 
 
 - Desk research: Análisis Competencia 
-- 2 Personas
-  - [Amanda Álvarez](Persona&UserJourneyMap1.pdf)
-- 2 User Journey Map  ( 1 por persona)
+- 2 Personas y sus respectivos Journey Map
   - [Amanda Álvarez](Persona&UserJourneyMap1.pdf)
 - Revisión de Usabilidad 
 
