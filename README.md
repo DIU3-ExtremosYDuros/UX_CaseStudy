@@ -1,5 +1,5 @@
 # DIU25
-Prácticas Diseño Interfaces de Usuario (Tema: .... ) 
+Prácticas Diseño Interfaces de Usuario (Tema: El ocio y comercio sostenible ) 
 
 [Guiones de prácticas](GuionesPracticas/)
 
@@ -37,8 +37,9 @@ Miembros:
 
 El User Research se va a centrar en el contexto del Reciclaje y la Artenasía en Granada, teniendo como objetivo en este plan el de evaluar la experiencia de la compra y la navegación en la web de Re-Made in Granada, para detectar las posibles mejoras en accesibilidad y navegación del usuario en la web. Para identificar las distintas áreas de mejora, nos vamos a basar en la experiencia que tenemos usando otras páginas web de distintas tiendas de ropa mucho más grandes, aunque no sean artesanas, como pueden ser Zara, H&M o Springfield. 
 
-Existen varios perfiles que hemos identificado como principales usuarios del sistema. El primero de ellos es de una persona joven que está interesada por el medio ambiente y busca comprar ropa artesanal. El segundo es una persona mayor que  
+Existen varios perfiles que hemos identificado como principales usuarios del sistema, aunque caben destacar dos. El primero de ellos es de una persona joven que está interesada por el medio ambiente y busca comprar ropa artesanal. El segundo es una persona mayor que valora la calidad y la exclusividad de las prendas, buscando ropa única y bien confeccionada, este perfil suele tener un poder adquisitivo medio-alto y prefiere invertir en piezas que duren en el tiempo en lugar de seguir las tendencias de la moda rápida.
 
+Ambos perfiles nos ayudarán a evaluar distintos aspectos de la navegación y la experiencia de compra en la web de Re-Made in Granada, permitiéndonos detectar posibles barreras y oportunidades de mejora para hacer que el sitio sea más accesible y atractivo para todos los usuarios.
 
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
@@ -54,7 +55,11 @@ Existen varios perfiles que hemos identificado como principales usuarios del sis
 Se han creado dos personas distintas. 
 
 Amanda es una chica que acaba de llegar a Granada como estudiante de Erasmus, es argentina y estudia Bellas Artes. Le gusta conocer gente nueva, la música, leer y dibujar. Necesita comprar ropa nueva y quiere algo especial.
-![Persona 1](img/Persona1.png) 
+![Persona 1](img/Persona1.png)
+
+<br>
+
+Emilio es una persona mayor del barrio del Albahicín en Granada, está jubilado desde hace 15 años. Dedica su tiempo libre a hacer alfarería y le encanta pasear por Granada buscando tiendas de ropa pequeñas y que considera especiales.
 
 
 >>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
