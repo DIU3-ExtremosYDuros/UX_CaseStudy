@@ -54,7 +54,7 @@ Existen varios perfiles que hemos identificado como principales usuarios del sis
 Se han creado dos personas distintas. 
 
 Amanda es una chica que acaba de llegar a Granada como estudiante de Erasmus, es argentina y estudia Bellas Artes. Le gusta conocer gente nueva, la música, leer y dibujar. Necesita comprar ropa nueva y quiere algo especial.
-![Imagen Persona 1](img/Persona1.png) 
+![Persona 1](img/Persona1.png) 
 
 
 >>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
@@ -63,6 +63,10 @@ Amanda es una chica que acaba de llegar a Granada como estudiante de Erasmus, es
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
 ----
+
+En cuanto al User Journey Map, se han creado dos hipotéticas situaciones que se ajustan lo máximo posible a una experiencia real de compra. En la primera situación, tenemos a Amanda, la cual no ha podido traerse toda su ropa de Argentina y recuerda que en clase una profesora habló sobre esta marca, pero no recuerda el nombre. 
+
+![Journey Map 1](img/JourneyMap1.png)
 
 >>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
 
