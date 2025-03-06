@@ -66,7 +66,7 @@ Amanda es una chica que acaba de llegar a Granada como estudiante de Erasmus, es
 
 En cuanto al User Journey Map, se han creado dos hipotéticas situaciones que se ajustan lo máximo posible a una experiencia real de compra. En la primera situación, tenemos a Amanda, la cual no ha podido traerse toda su ropa de Argentina y recuerda que en clase una profesora habló sobre esta marca, pero no recuerda el nombre. 
 
-![Journey Map 1](img/JourneyMap1.png)
+![Journey Map 1](img/UserJourney1.png)
 
 >>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
 
