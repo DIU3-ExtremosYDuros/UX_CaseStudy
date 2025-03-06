@@ -6,6 +6,8 @@
   - [Amanda Álvarez](Persona&UserJourneyMap1.pdf)
 - Revisión de Usabilidad 
 
+## Competitive Analysis 
+
 ## Persona 
 
 
