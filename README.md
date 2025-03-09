@@ -70,8 +70,8 @@ En cuanto al User Journey Map, se han creado dos hipotéticas situaciones que se
 
 ![Journey Map 1](img/UserJourney1.png)
 
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
-
+En la segunda situación, Emilio ha roto una de sus chaquetas y necesita comprar una nueva, decide salir a pasear por Granada y se encuentra con la tienda de Re-Made donde ve una chaqueta que le gusta, pero está cerrada e intenta comprarla por internet.
+![Journey Map 1](img/UserJourney2.png)
 
 ### 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
