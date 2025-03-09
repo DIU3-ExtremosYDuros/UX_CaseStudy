@@ -55,11 +55,13 @@ Ambos perfiles nos ayudarán a evaluar distintos aspectos de la navegación y la
 Se han creado dos personas distintas. 
 
 Amanda es una chica que acaba de llegar a Granada como estudiante de Erasmus, es argentina y estudia Bellas Artes. Le gusta conocer gente nueva, la música, leer y dibujar. Necesita comprar ropa nueva y quiere algo especial.
+
 ![Persona 1](img/Persona1.png)
 
 <br>
 
 Emilio es una persona mayor del barrio del Albahicín en Granada, está jubilado desde hace 15 años. Dedica su tiempo libre a hacer alfarería y le encanta pasear por Granada buscando tiendas de ropa pequeñas y que considera especiales.
+
 ![Persona 2](img/Persona2.png)
 
 ### 1.d User Journey Map
@@ -71,6 +73,7 @@ En cuanto al User Journey Map, se han creado dos hipotéticas situaciones que se
 ![Journey Map 1](img/UserJourney1.png)
 
 En la segunda situación, Emilio ha roto una de sus chaquetas y necesita comprar una nueva, decide salir a pasear por Granada y se encuentra con la tienda de Re-Made donde ve una chaqueta que le gusta, pero está cerrada e intenta comprarla por internet.
+
 ![Journey Map 1](img/UserJourney2.png)
 
 ### 1.e Usability Review
