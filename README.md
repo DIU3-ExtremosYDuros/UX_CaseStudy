@@ -60,10 +60,7 @@ Amanda es una chica que acaba de llegar a Granada como estudiante de Erasmus, es
 <br>
 
 Emilio es una persona mayor del barrio del Albahicín en Granada, está jubilado desde hace 15 años. Dedica su tiempo libre a hacer alfarería y le encanta pasear por Granada buscando tiendas de ropa pequeñas y que considera especiales.
-
-
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
-
+![Persona 2](img/Persona2.png)
 
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
