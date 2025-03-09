@@ -4,6 +4,8 @@
 - Desk research: Análisis Competencia 
 - 2 Personas y sus respectivos Journey Map
   - [Amanda Álvarez](Persona&UserJourneyMap1.pdf)
+  -  [Emilio García](Emilio%20García.png)
+    
 - Revisión de Usabilidad 
 
 ## Competitive Analysis 
@@ -14,11 +16,12 @@
 Se han creado dos personas distintas: 
 
 - Amanda es una chica que acaba de llegar a Granada como estudiante de Erasmus, es argentina y estudia Bellas Artes. Le gusta conocer gente nueva, la música, leer y dibujar. Necesita comprar ropa nueva y quiere algo especial.
-
+- Emilio ha roto una de sus chaquetas mientras hacía un jarrón de barro, ya que se quedó enganchada con el torno. Necesita buscar una nueva y dedice recorrer Granada buscando una tienda que venda ropa de su estilo.
 
 ## Empathy Map 
 
 ## User Journey Map 
+  - [Emilio - Journey Map](Emilio%20-%20User%20Journey%20Map.png)
 
 ## Usability Review 
 
