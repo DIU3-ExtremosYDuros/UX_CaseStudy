@@ -65,7 +65,7 @@ Emilio es una persona mayor del barrio del Albahicín en Granada, está jubilado
 ![Persona 2](img/Persona2.png)
 
 ### 1.d User Journey Map
-![Método UX](img/JourneyMap.png) 
+![Método UX](img/JourneyMap1.png) 
 ----
 
 En cuanto al User Journey Map, se han creado dos hipotéticas situaciones que se ajustan lo máximo posible a una experiencia real de compra. En la primera situación, tenemos a Amanda, la cual no ha podido traerse toda su ropa de Argentina y recuerda que en clase una profesora habló sobre esta marca, pero no recuerda el nombre. 
