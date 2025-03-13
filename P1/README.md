@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a0e6d772-3e01-41b2-b897-c8eb9af4a30c)## DIU - Practica1, entregables
+## DIU - Practica1, entregables
 
 
 - Desk research: Análisis Competencia 
