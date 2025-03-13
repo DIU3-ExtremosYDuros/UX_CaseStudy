@@ -2,7 +2,7 @@
 
 
 - Desk research: Análisis Competencia 
-- 2 Personas y sus respectivos Journey Map
+- 2 Personas:
   - [Amanda Álvarez](Persona&UserJourneyMap1.pdf)
   -  [Emilio García](Emilio%20García.png)
     
@@ -21,6 +21,7 @@ Se han creado dos personas distintas:
 ## Empathy Map 
 
 ## User Journey Map 
+  - [Amanda - Journey Map]
   - [Emilio - Journey Map](Emilio%20-%20User%20Journey%20Map.png)
 
 ## Usability Review 
