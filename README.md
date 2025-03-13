@@ -65,12 +65,12 @@ Emilio es una persona mayor del barrio del Albahicín en Granada, está jubilado
 ![Persona 2](img/Persona2.png)
 
 ### 1.d User Journey Map
-![Método UX](img/JourneyMap1.png) 
+![Método UX](img/JourneyMap.png) 
 ----
 
 En cuanto al User Journey Map, se han creado dos hipotéticas situaciones que se ajustan lo máximo posible a una experiencia real de compra. En la primera situación, tenemos a Amanda, la cual no ha podido traerse toda su ropa de Argentina y recuerda que en clase una profesora habló sobre esta marca, pero no recuerda el nombre. 
 
-![Journey Map 1](img/UserJourney.png)
+![Journey Map 1](img/UserJourney1.png)
 
 En la segunda situación, Emilio ha roto una de sus chaquetas y necesita comprar una nueva, decide salir a pasear por Granada y se encuentra con la tienda de Re-Made donde ve una chaqueta que le gusta, pero está cerrada e intenta comprarla por internet.
 
