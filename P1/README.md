@@ -1,9 +1,9 @@
-## DIU - Practica1, entregables
+![image](https://github.com/user-attachments/assets/a0e6d772-3e01-41b2-b897-c8eb9af4a30c)## DIU - Practica1, entregables
 
 
 - Desk research: Análisis Competencia 
 - 2 Personas:
-  - [Amanda Álvarez](Persona&UserJourneyMap1.pdf)
+  -  [Amanda Álvarez](Amanda%20Álvarez.png)
   -  [Emilio García](Emilio%20García.png)
     
 - Revisión de Usabilidad 
@@ -21,7 +21,7 @@ Se han creado dos personas distintas:
 ## Empathy Map 
 
 ## User Journey Map 
-  - [Amanda - Journey Map]
+  - [Amanda - Journey Map](Amanda%20-%20User%20Journey%20Map.png)
   - [Emilio - Journey Map](Emilio%20-%20User%20Journey%20Map.png)
 
 ## Usability Review 
