@@ -45,8 +45,9 @@ Ambos perfiles nos ayudarán a evaluar distintos aspectos de la navegación y la
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
+Las aplicaciones que están asignadas a nuestro grupo, tratan sobre Reciclaje y artesanía: una web de ropa ecológica, otra web de cosas de barro y la tercera de ropa de segunda mano. En general todas las webs tienen bastantes fallos de diseño, pero nos hemos decidido por la de Casa Kuna porque a simple vista es la que más carencias tiene y mayores puntos de mejora.
 
+![Competitor Analysis](img/Competitor%20Analysis.png)
 
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
