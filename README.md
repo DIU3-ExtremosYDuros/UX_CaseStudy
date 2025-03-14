@@ -81,10 +81,9 @@ En la segunda situación, Emilio ha roto una de sus chaquetas y necesita comprar
 ![Método UX](img/usabilityReview.png) 
 ----
 
->>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
->>> - Enlace al documento:  (xls/pdf) 
->>> - URL y Valoración numérica obtenida: 
->>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
+- Enlace al documento:  ![Usability Review](https://github.com/DIU3-ExtremosYDuros/UX_CaseStudy/blob/master/P1/Usability-review.pdf) 
+- Valoración numérica obtenida: 59
+- Comentario sobre la revisión:  La página, a nivel general, es pobre, tanto en diseño orientado al usuario, como en falta de acciones a realizar, falta de un catálogo, enlaces que llevan a páginas que no existen etc. Tiene alguna cosa aceptable, incluso buena, como la claridad en el menú, y la cabecera, que siempre está presente, pero en líneas generales, se pueden mejorar bastantes cosas.
 
 <br>
 
