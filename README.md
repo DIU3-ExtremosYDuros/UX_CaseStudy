@@ -5,7 +5,7 @@ Prácticas Diseño Interfaces de Usuario (Tema: El ocio y comercio sostenible )
 
 Grupo: DIU3_ExtremosYDuros.  Curso: 2024/25 
 
-Actualizado: xx/xx/2025
+Actualizado: 25/03/2025
 
 Proyecto: 
 
@@ -89,31 +89,24 @@ En la segunda situación, Emilio ha roto una de sus chaquetas y necesita comprar
 
 ## Paso 2. UX Design  
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
-### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
+### 2.a Reframing / IDEACION: Feedback Capture Grid
 ![Método UX](img/feedback-capture-grid.png) 
 ----
 
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
 
-
  Interesante | Críticas     
 | ------------- | -------
   Preguntas | Nuevas ideas
-  
-    
->>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
->>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
 
+  
+Re Made es mucho más que una marca de ropa. Nuestro objetivo fundamental es la venta de ropa artesanal y con materiales reciclados, pero nuestra misión es algo mucho más grande. Queremos formar una comunidad de personas unidas entre sí, también queremos organizar talleres multitudinarios cada semana, así como crear una comunidad artística en la que tenga cabida todo tipo de persona. Los usuarios van a poder registrarse en la web, lo que les permitirá no solo comprar por la tienda, si no apuntarse a talleres, comunicarse mediante un foro con otros usuarios… Todos los talleres serán registrados y se podrán valorar, así como publicar fotos relacionadas con este. A los usuarios se les recomendarán talleres en función de los que ha participado anteriormente y sus valoraciones, de igual forma ocurre con la ropa, recomendando aquellas prendas y accesorios que creemos que pueden interesar a cada usuario.
 
 ### 2.b ScopeCanvas
 ![Método UX](img/ScopeCanvas.png)
 ----
 
->>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
->>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
-
+![ScopeCanvas](P2/ScopeCanvas.svg)
 
 
 ### 2.b User Flow (task) analysis 
