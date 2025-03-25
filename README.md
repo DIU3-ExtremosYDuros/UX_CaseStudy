@@ -120,11 +120,22 @@ Re Made es mucho más que una marca de ropa. Nuestro objetivo fundamental es la 
 ![Método UX](img/labelling.png) 
 ----
 
->>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
+![Sitemap](P2/sitemap.png)
 
 Término | Significado     
 | ------------- | -------
-  Login  | acceder a plataforma
+Inicio | Página principal de la plataforma  
+Log in / Registro | Acceder o registrarse en la plataforma  
+Tienda | Sección para comprar productos  
+Producto | Página de un producto específico  
+Talleres | Sección de inscripción a talleres  
+Mis Talleres | Talleres en los que está inscrito el usuario  
+Perfil de Usuario | Información y configuración del usuario  
+Mis Post | Publicaciones del usuario en el foro  
+Sobre Nosotros | Información sobre Casa Kuna  
+Contacto | Formulario para contactar con Casa Kuna  
+Foro | Espacio de discusión entre usuarios  
+Post | Página de un tema específico en el foro  
 
 
 ### 2.d Wireframes
