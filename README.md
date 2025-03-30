@@ -113,7 +113,39 @@ Re Made es mucho más que una marca de ropa. Nuestro objetivo fundamental es la 
 ![Método UX](img/Sitemap.png) 
 -----
 
->>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
+En esta tabla se identifican las tareas y su relevancia para los usuarios. Distinguimos entre tres grupos de usuario:
+
+- **Usuarios Registrados**: Usuario con una cuenta en la tienda. Puede comprar productos, inscribirse en talleres, participar en el foro e interactuar con otros usuarios.  
+- **Usuarios No Registrados**: Usuario que visita la tienda y puede ver los productos, talleres y el foro, pero sin participar.  
+- **Moderador**: Personal de la tienda que publica productos, administra talleres y supervisa la actividad en el foro.  
+
+Tarea | Usuarios Registrados | Usuarios No Registrados | Moderador
+|------------------------|---------------------|---------------------|------------|
+Buscar productos/talleres | ALTA | ALTA | MEDIA |
+Comprar productos | ALTA | NO PUEDE | NO PUEDE |
+Inscribirse en talleres | ALTA | NO PUEDE | NO PUEDE |
+Dejar reseñas en productos/talleres | MEDIA | NO PUEDE | MEDIA |
+Publicar comentarios en talleres | MEDIA | NO PUEDE | MEDIA |
+Eliminar comentarios propios | BAJA | NO PUEDE | MEDIA |
+Registrarse | NO PUEDE | MEDIA | NO PUEDE |
+Iniciar sesión | ALTA | NO PUEDE | ALTA |
+Cerrar sesión | MEDIA | NO PUEDE | BAJA |
+Gestionar pedidos | ALTA | NO PUEDE | ALTA |
+Añadir productos a la tienda | NO PUEDE | NO PUEDE | ALTA |
+Gestionar talleres | NO PUEDE | NO PUEDE | ALTA |
+Ver publicaciones | ALTA | ALTA | ALTA |
+Crear publicaciones | ALTA | NO PUEDE | MEDIA |
+Comentar publicaciones | MEDIA | NO PUEDE | MEDIA |
+Eliminar propias publicaciones | BAJA | NO PUEDE | MEDIA |
+Moderar contenido | NO PUEDE | NO PUEDE | ALTA |
+
+Con respecto a los distintos User Flow que se pueden llevar a cabo en nuestra tienda, vamos a mostrar los 3 que consideramos mas importantes; registrarse en la web, publicar un post en el foro y comprar un producto de la tienda.
+
+![Sitemap](P2/userflow1.png)
+
+![Sitemap](P2/userflow2.png)
+
+![Sitemap](P2/userflow3.png)
 
 
 ### 2.c IA: Sitemap + Labelling 
