@@ -11,14 +11,18 @@
 
 ### TASK ANALYSIS
 
-* User Task Matrix 
-* User/Task flow
+* [User Task Matrix](usertaskmatrix.png)
+  
+* [User/Task flow 1](userflow1.png)
+* [User/Task flow 2](userflow2.png)
+* [User/Task flow 3](userflow3.png)
 
 
 ### ARQUITECTURA DE INFORMACIÓN
 
 * [Sitemap](sitemap.png)
-* Labelling 
+  
+* [Labelling](labelling.png)
 
 
 ### Prototipo Lo-FI Wireframe 
