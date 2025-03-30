@@ -141,11 +141,11 @@ Moderar contenido | NO PUEDE | NO PUEDE | ALTA |
 
 Con respecto a los distintos User Flow que se pueden llevar a cabo en nuestra tienda, vamos a mostrar los 3 que consideramos mas importantes; registrarse en la web, publicar un post en el foro y comprar un producto de la tienda.
 
-![Sitemap](P2/userflow1.png)
+![User Flow 1](P2/userflow1.png)
 
-![Sitemap](P2/userflow2.png)
+![User Flow 2](P2/userflow2.png)
 
-![Sitemap](P2/userflow3.png)
+![User Flow 3](P2/userflow3.png)
 
 
 ### 2.c IA: Sitemap + Labelling 
