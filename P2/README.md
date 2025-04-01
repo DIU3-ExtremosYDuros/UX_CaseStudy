@@ -1,10 +1,7 @@
 ## DIU - Practica2, entregables
 
 ### Ideación 
-* Malla receptora de información 
-* Mapa de empatía
-* Point of View 
-
+* [Malla receptora de información](feedbackcapturegrid.png)
 
 ### PROPUESTA DE VALOR
 *  [ScopeCanvas](ScopeCanvas.svg)
