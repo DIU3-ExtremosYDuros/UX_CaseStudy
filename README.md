@@ -134,7 +134,7 @@ Comentar publicaciones | MEDIA | NO PUEDE | MEDIA |
 Eliminar propias publicaciones | BAJA | NO PUEDE | MEDIA |
 Moderar contenido | NO PUEDE | NO PUEDE | ALTA |
 
-Con respecto a los distintos User Flow que se pueden llevar a cabo en nuestra tienda, vamos a mostrar los 3 que consideramos mas importantes; registrarse en la web, publicar un post en el foro y comprar un producto de la tienda.
+Con respecto a los distintos User Flow que se pueden llevar a cabo en nuestra tienda, vamos a mostrar los 3 que consideramos mas importantes; registrarse en la web, publicar un post en el foro y apuntarse a un taller. Con estos tres user flows pensamos que se abarca el totalidad de las acciones que un usuario podría llevar a cabo en nuestra web.
 
 ![User Flow 1](P2/userflow1.png)
 
