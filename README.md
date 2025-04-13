@@ -169,7 +169,9 @@ Post | Página de un tema específico en el foro
 ![Método UX](img/Wireframes.png) 
 -----
 
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
+Para hacer los Wireframes hemos usado la herramienta de Figma, donde cada frame creado se corresponde a una página distinta de la web. Hemos creado los diseños para las páginas de Inicio, Iniciar Sesión, Registro, Perfil de Usuario, Foro, Post, Talleres, Página de Taller, muestras del chat y el diseño del foro responsive, tanto como para un iPad como para un iPhone.
+
+[Wireframes](P2/Wireframes.pdf) 
 
 <br>
 
