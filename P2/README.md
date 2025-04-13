@@ -24,6 +24,8 @@
 
 ### Prototipo Lo-FI Wireframe 
 
+* [Wireframes](Wireframes.png)
 
 ### Conclusiones  
-(incluye valoración de esta etapa)
+
+El uso de instrumentos como el mapa de empatía nos permitió ponernos en la posición de nuestros usuarios futuros y comprender de manera más efectiva sus expectativas, sus inquietudes y sus valores. Con esos datos, elaboramos una propuesta de valor más acorde a sus demandas. Simultáneamente, llevamos a cabo un estudio exhaustivo de las actividades que se realizarán en la plataforma y elaboramos una estructurada arquitectura de información, lo que nos facilitó la definición de las funcionalidades fundamentales y la organización de la navegación de manera nítida. El resultado es una plataforma más accesible, sencilla de manejar y dirigida a proporcionar una experiencia positiva para el cliente.
