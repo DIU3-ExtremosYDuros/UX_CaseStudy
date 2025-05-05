@@ -181,7 +181,7 @@ Para hacer los Wireframes hemos usado la herramienta de Figma, donde cada frame 
 ![Método UX](img/moodboard.png)
 -----
 
-[Mooboard](img/Moodboard.png)
+![Mooboard](img/Moodboard.png)
 >>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
 
 
