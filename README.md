@@ -5,11 +5,11 @@ Prácticas Diseño Interfaces de Usuario (Tema: El ocio y comercio sostenible )
 
 Grupo: DIU3_ExtremosYDuros.  Curso: 2024/25 
 
-Actualizado: 25/03/2025
+Actualizado: 17/05/2025
 
 Proyecto: 
 
-ReMade
+**ReMade**
 
 Descripción: 
 
@@ -19,7 +19,7 @@ Logotipo:
 
 ![Logo ReMade](img/logo.png) 
 
-Damos nueva vida a lo que importa
+**Damos nueva vida a lo que importa**
 
 Miembros:
  * :bust_in_silhouette:  Juan Pedro Moreno Ruiz  :octocat:  [https://github.com/Karylus](https://github.com/Karylus)
