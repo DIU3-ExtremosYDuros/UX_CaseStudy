@@ -213,8 +213,7 @@ Para ver el prototipo, se puede usar este enlace a Figma: [Mockup Figma](https:/
 ![Método UX](img/caseStudy.png) 
 -----
 
->>> Publicar my Case Study en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la práctica
->>> Documente bien la cabecera y asegurese que ha resumido los pasos realizados para el diseño de su producto
+Todo el desarrollo del UX-Case Study se ha documentado paso a paso y explicado de la mejor manera posible, para dejar clara nuestra propuesta y que todo el mundo la pueda entender, incluso si quien la lee no está familiarizado con esta práctica. El enlace es el siguiente: [Enlace](https://github.com/DIU3-ExtremosYDuros/UX_CaseStudy/blob/master/README.md)
 
 <br>
 
