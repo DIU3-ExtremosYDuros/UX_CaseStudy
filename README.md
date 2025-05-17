@@ -184,14 +184,13 @@ Para hacer los Wireframes hemos usado la herramienta de Figma, donde cada frame 
 -----
 
 ![Mooboard](img/Moodboard.png)
->>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
 
 
 ### 3.b Landing Page
 ![Método UX](img/landing-page.png) 
 ----
 
->>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
+![Landing Page](P3/LandingPage.png)
 
 
 ### 3.c Guidelines
@@ -206,8 +205,9 @@ Para hacer los Wireframes hemos usado la herramienta de Figma, donde cada frame 
 ![Método UX](img/mockup.png) 
 ----
 
->>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
+El Mockup diseñado se puede consultar desde el siguiente archivo PDF: [Mockup PDF](P3/Mockup.pdf)
 
+Para ver el prototipo, se puede usar este enlace a Figma: [Mockup Figma](https://www.figma.com/design/HIXIjNIw3gh6lrK8S6T9ll/Mockup?node-id=0-1&t=ZLdFL9OxKd2MB2oP-1)
 
 ### 3.e ¿My UX-Case Study?
 ![Método UX](img/caseStudy.png) 
