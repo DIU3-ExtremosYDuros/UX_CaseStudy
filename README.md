@@ -9,7 +9,7 @@ Actualizado: 25/03/2025
 
 Proyecto: 
 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+ReMade
 
 Descripción: 
 
@@ -17,7 +17,9 @@ Descripción:
 
 Logotipo: 
 
->>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
+![Logo ReMade](img/logo.png) 
+
+Damos nueva vida a lo que importa
 
 Miembros:
  * :bust_in_silhouette:  Juan Pedro Moreno Ruiz  :octocat:  [https://github.com/Karylus](https://github.com/Karylus)
