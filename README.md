@@ -197,8 +197,14 @@ Para hacer los Wireframes hemos usado la herramienta de Figma, donde cada frame 
 ![Método UX](img/guidelines.png) 
 ----
 
->>> Estudio de Guidelines y explicación de los Patrones IU a usar 
->>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+Para documentarnos hemos visitado varias páginas, pero principalmente nos hemos informado en [UI Patterns](https://ui-patterns.com/) y [Meterial Design 3](https://m3.material.io/). Los componentes que hemos usados han sido:
+
+* **Onboarding**: Página principal, se puede acceder a las distintas secciones de la web (Talleres, Foro y Tienda) desde el mismo lugar.
+* **Card List**: Se usando Cards para que los usuarios puedan encontran su taller, su post o su artículo para comprar.
+* **Item details**: Cada una de las Cards tienen información sobre el elemento que se muestra; horario, valoración, precio, etc.
+* **Navigation Bar**: En la parte inferior se usa para que los usuarios puedan acceder al onboarding, sus mensajes y su perfil de usuario.
+* **Dialogs**: Se usan para mostrar la confirmación de inscripción en un taller.
+* **Chips**: Los filtros y elección de categorías están basadas en este patrón, como los tipos de talleres.
 
 
 ### 3.d Mockup
