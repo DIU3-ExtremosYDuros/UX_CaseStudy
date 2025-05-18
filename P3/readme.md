@@ -5,7 +5,7 @@
 - [Mockup: LAYOUT HI-FI](Mockup.pdf)
 - [Publicación del Case Study](https://github.com/DIU3-ExtremosYDuros/UX_CaseStudy/README.md)
 
-## Conclusiones
+## Conclusiones
 
 Para hacer la Landing Page nos hemos basado en la página de inicio que hicimos en los wireframes de la  P2, pero adaptada para incluir más información sobre la página.
 
