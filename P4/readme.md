@@ -4,27 +4,44 @@
 >>> Se publicará la lista de grupos y los respectivos GitHub
 
 - Users. Elección y características de los usuarios reclutados
-<table>
+  <table>
   <thead>
     <tr>
-      <th>Encabezado 1</th>
-      <th>Encabezado 2</th>
-      <th>Encabezado 3</th>
+      <th>#id. usuario</th>
+      <th>Sexo/edad</th>
+      <th>Ocupación</th>
+      <th>Experiencia internet</th>
+      <th>Plataforma</th>
+      <th>Perfil cubierto</th>
+      <th>TEST</th>
+      <th>SUS score</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Fila 1, Col 1</td>
-      <td>Fila 1, Col 2</td>
-      <td>Fila 1, Col 3</td>
+      <td>1</td>
+      <td>F / 25</td>
+      <td>Estudiante</td>
+      <td>Intermedio</td>
+      <td>Plataforma A</td>
+      <td>Tipo A, Actividad 1, Emoción X</td>
+      <td>A</td>
+      <td>82.5</td>
     </tr>
     <tr>
-      <td>Fila 2, Col 1</td>
-      <td>Fila 2, Col 2</td>
-      <td>Fila 2, Col 3</td>
+      <td>2</td>
+      <td>M / 30</td>
+      <td>Profesional</td>
+      <td>Avanzado</td>
+      <td>Plataforma B</td>
+      <td>Tipo B, Actividad 2, Emoción Y</td>
+      <td>B</td>
+      <td>75.0</td>
     </tr>
+    <!-- Puedes añadir más filas según los datos -->
   </tbody>
 </table>
+
 - Diseño de las pruebas
 - Realización del Cuestionario SUS para usuarios y casos A y B.
 - Tabla A/B Testing con resultados para A y B
