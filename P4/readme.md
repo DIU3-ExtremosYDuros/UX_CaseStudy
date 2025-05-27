@@ -19,26 +19,40 @@
   </thead>
   <tbody>
     <tr>
-      <td>1</td>
-      <td>F / 25</td>
-      <td>Estudiante</td>
+      <td>Salvador</td>
+      <td>M / 53</td>
+      <td>Oficinista</td>
       <td>Intermedio</td>
-      <td>Plataforma A</td>
-      <td>Tipo A, Actividad 1, Emoción X</td>
+      <td>Windows,
+        iOS</td>
+      <td>Oficinista con cierta experiencia con la tecnología.
+      </td>
       <td>A</td>
       <td>82.5</td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>M / 30</td>
-      <td>Profesional</td>
-      <td>Avanzado</td>
-      <td>Plataforma B</td>
-      <td>Tipo B, Actividad 2, Emoción Y</td>
+      <td>Manuela</td>
+      <td>F / 51</td>
+      <td>Emprendedora</td>
+      <td>Bajo</td>
+      <td>iOS </td>
+      <td>Emprendedora, dueña de una guardería desde hace más de 25 años.
+      Es un poco negada con la tecnología, nunca le ha gustado mucho.</td>
       <td>B</td>
       <td>75.0</td>
     </tr>
-    <!-- Puedes añadir más filas según los datos -->
+    <tr>
+      <td>Pablo</td>
+      <td>M / 19</td>
+      <td>Estudiante</td>
+      <td>Avanzado</td>
+      <td>iOS,
+          Windows</td>
+      <td>Estudiante de psicología al que le gusta mucho el uso de la tecnología 
+      para todas sus actividades diarias</td>
+      <td>B</td>
+      <td>75.0</td>
+    </tr>
   </tbody>
 </table>
 
