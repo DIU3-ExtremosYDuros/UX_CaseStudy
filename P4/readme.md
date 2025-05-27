@@ -4,6 +4,27 @@
 >>> Se publicará la lista de grupos y los respectivos GitHub
 
 - Users. Elección y características de los usuarios reclutados
+<table>
+  <thead>
+    <tr>
+      <th>Encabezado 1</th>
+      <th>Encabezado 2</th>
+      <th>Encabezado 3</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Fila 1, Col 1</td>
+      <td>Fila 1, Col 2</td>
+      <td>Fila 1, Col 3</td>
+    </tr>
+    <tr>
+      <td>Fila 2, Col 1</td>
+      <td>Fila 2, Col 2</td>
+      <td>Fila 2, Col 3</td>
+    </tr>
+  </tbody>
+</table>
 - Diseño de las pruebas
 - Realización del Cuestionario SUS para usuarios y casos A y B.
 - Tabla A/B Testing con resultados para A y B
