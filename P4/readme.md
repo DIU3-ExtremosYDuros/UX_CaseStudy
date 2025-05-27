@@ -4,13 +4,6 @@
 >>> Se publicará la lista de grupos y los respectivos GitHub
 
 - Users. Elección y características de los usuarios reclutados
-
-  | Encabezado 1 | Encabezado 2 | Encabezado 3 |
-|--------------|--------------|--------------|
-| Fila 1 Col 1 | Fila 1 Col 2 | Fila 1 Col 3 |
-| Fila 2 Col 1 | Fila 2 Col 2 | Fila 2 Col 3 |
-
-
 - Diseño de las pruebas
 - Realización del Cuestionario SUS para usuarios y casos A y B.
 - Tabla A/B Testing con resultados para A y B
