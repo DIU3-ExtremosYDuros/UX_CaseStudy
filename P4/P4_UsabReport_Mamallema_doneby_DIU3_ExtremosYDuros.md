@@ -81,9 +81,11 @@ Además, se ha realizado un estudio con tecnología de eyetracking. Esto nos ha 
 
 #### Resultados obtenidos
 
+Los resultados de SUS han sido muy parecidos, y se encuentan en los siguientes enlaces:
 
+[Informe SUS Juan Pedro](SUS_JuanPedro.pdf)
 
-(resultado de SUS)
+[Informe SUS Salvador](SUS_Salvador.pdf)
 
 
 
