@@ -63,8 +63,9 @@ Las pruebas ayudarán a identificar problemas comunes como pasos poco claros, bo
 
 #### Metodología de usabililidad
 
-[Metodología, sesiones,  técnicas aplicadas... ]
+Los tests los hemos realizado los dos miembros del grupo, buscando siempre mantener un enfoque lo más objetivo posible y evitando que nuestros conocimientos previos influyan en las decisiones que hemos tomado durante las pruebas.
 
+Además, se ha realizado un estudio con tecnología de eyetracking. Esto nos ha permitido identificar las zonas de mayor atención en cada pantalla de la aplicación, así como detectar los elementos menos visibles que deberían destacarse más.
  
 
 #### Test de usuarios: Participantes
