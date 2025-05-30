@@ -1,60 +1,12 @@
 # DIU - Practica 4, entregables
 
->>> Se publicará la [Asignacion_ABtesting](https://github.com/mgea/DIU/blob/master/P4/Asignacion_ABtesting.pdf)
->>> Se publicará la lista de grupos y los respectivos GitHub
-
 - Users. Elección y características de los usuarios reclutados
-  <table>
-  <thead>
-    <tr>
-      <th>#id. usuario</th>
-      <th>Sexo/edad</th>
-      <th>Ocupación</th>
-      <th>Experiencia internet</th>
-      <th>Plataforma</th>
-      <th>Perfil cubierto</th>
-      <th>TEST</th>
-      <th>SUS score</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Salvador</td>
-      <td>M / 53</td>
-      <td>Oficinista</td>
-      <td>Intermedio</td>
-      <td>Windows,
-        iOS</td>
-      <td>Oficinista con cierta experiencia con la tecnología.
-      </td>
-      <td>A</td>
-      <td>82.5</td>
-    </tr>
-    <tr>
-      <td>Manuela</td>
-      <td>F / 51</td>
-      <td>Emprendedora</td>
-      <td>Bajo</td>
-      <td>iOS </td>
-      <td>Emprendedora, dueña de una guardería desde hace más de 25 años.
-      Es un poco negada con la tecnología, nunca le ha gustado mucho.</td>
-      <td>B</td>
-      <td>75.0</td>
-    </tr>
-    <tr>
-      <td>Pablo</td>
-      <td>M / 19</td>
-      <td>Estudiante</td>
-      <td>Avanzado</td>
-      <td>iOS,
-          Windows</td>
-      <td>Estudiante de psicología al que le gusta mucho el uso de la tecnología 
-      para todas sus actividades diarias</td>
-      <td>B</td>
-      <td>75.0</td>
-    </tr>
-  </tbody>
-</table>
+
+| #id. usuario | Sexo/edad | Ocupación   | Experiencia internet   | Plataforma     | Perfil cubierto                                                                  | TEST | SUS score |
+|--------------|-----------|-------------|------------------------|----------------|----------------------------------------------------------------------------------|------|-----------|
+| Salvador     | M / 53    | Oficinista  | Intermedio             | Windows, iOS   | Oficinista con cierta experiencia con la tecnología.                             | A    | 82.5      |
+| Manuela      | F / 51    | Emprendedora| Bajo                   | iOS            | Emprendedora, dueña de una guardería desde hace más de 25 años. Es un poco negada con la tecnología, nunca le ha gustado mucho. | B    | 75.0      |
+| Pablo        | M / 19    | Estudiante  | Avanzado               | iOS, Windows   | Estudiante de psicología al que le gusta mucho el uso de la tecnología para todas sus actividades diarias | B    | 75.0      |
 
 - Diseño de las pruebas
 - Realización del Cuestionario SUS para usuarios y casos A y B.
