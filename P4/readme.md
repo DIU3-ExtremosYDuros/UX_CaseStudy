@@ -4,8 +4,8 @@
 
 | #id. usuario | Sexo/edad | Ocupación   | Experiencia internet   | Plataforma     | Perfil cubierto                                                                  | TEST | SUS score |
 |--------------|-----------|-------------|------------------------|----------------|----------------------------------------------------------------------------------|------|-----------|
-| Salvador     | M / 53    | Oficinista  | Intermedio             | Windows, iOS   | Oficinista con cierta experiencia con la tecnología.                             | A    | 82.5      |
-| Manuela      | F / 51    | Emprendedora| Bajo                   | iOS            | Emprendedora, dueña de una guardería desde hace más de 25 años. Es un poco negada con la tecnología, nunca le ha gustado mucho. | B    | 75.0      |
+| Salvador     | M / 53    | Oficinista  | Intermedio             | Windows, iOS   | Oficinista con cierta experiencia con la tecnología.                             | A    | 75.0        |
+| Manuela      | F / 51    | Emprendedora| Bajo                   | iOS            | Emprendedora, dueña de una guardería desde hace más de 25 años. Es un poco negada con la tecnología, nunca le ha gustado mucho. | B    | 60.0      |
 | Pablo        | M / 19    | Estudiante  | Avanzado               | iOS, Windows   | Estudiante de psicología al que le gusta mucho el uso de la tecnología para todas sus actividades diarias | B    | 75.0      |
 
 - Diseño de las pruebas
