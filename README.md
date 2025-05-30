@@ -233,13 +233,12 @@ Todo el desarrollo del UX-Case Study se ha documentado paso a paso y explicado d
 >>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
 
 
+| #id. usuario | Sexo/edad | Ocupación   | Experiencia internet   | Plataforma     | Perfil cubierto                                                                  | TEST |
+|--------------|-----------|-------------|------------------------|----------------|----------------------------------------------------------------------------------|------|
+| Salvador     | M / 53    | Oficinista  | Intermedio             | Windows, iOS   | Oficinista con cierta experiencia con la tecnología.                             | A    |
+| Manuela      | F / 51    | Emprendedora| Bajo                   | iOS            | Emprendedora, dueña de una guardería desde hace más de 25 años. Es un poco negada con la tecnología, nunca le ha gustado mucho. | B    |
+| Pablo        | M / 19    | Estudiante  | Avanzado               | iOS, Windows   | Estudiante de psicología al que le gusta mucho el uso de la tecnología para todas sus actividades diarias | B    |
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
 
 
 ### 4.b Diseño de las pruebas 
