@@ -238,6 +238,7 @@ Todo el desarrollo del UX-Case Study se ha documentado paso a paso y explicado d
 | Salvador     | M / 53    | Oficinista  | Intermedio             | Windows, iOS   | Oficinista con cierta experiencia con la tecnología.                             | A    |
 | Manuela      | F / 51    | Emprendedora| Bajo                   | iOS            | Emprendedora, dueña de una guardería desde hace más de 25 años. Es un poco negada con la tecnología, nunca le ha gustado mucho. | B    |
 | Pablo        | M / 19    | Estudiante  | Avanzado               | iOS, Windows   | Estudiante de psicología al que le gusta mucho el uso de la tecnología para todas sus actividades diarias | B    |
+| Álvaro       | M / 22    | Estudiante  | Avanzado               | iOS, Windows   | Estudiante de historia con poco intereses por la tecnología, más alla de un uso diario de su teléfono | A    |
 
 
 
