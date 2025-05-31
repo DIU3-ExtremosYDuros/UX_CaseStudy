@@ -87,16 +87,9 @@ Los resultados de SUS han sido muy parecidos, y se encuentan en los siguientes e
 
 [Informe SUS Salvador](SUS_Salvador.pdf)
 
+[Eyetracking Juan Pedro](EyetrackingJuanPedro.png)
 
-
-(resultado de eyetracking)
-
-
-
-
-
-
-
+[Eyetracking Salvador](EyetrackingSalvador.png)
 
 
 ## 4 CONCLUSIONES 
