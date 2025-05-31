@@ -246,19 +246,24 @@ Todo el desarrollo del UX-Case Study se ha documentado paso a paso y explicado d
 ![Método UX](img/usability-testing.png) 
 -----
 
->>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
+Para evaluar la eficacia y usabilidad de las dos páginas web, se desarrollarán tres tipos de pruebas distintas: A/B testing con tareas orientadas a objetivos, un cuestionario SUS y una prueba de eyetracking.
 
+La primera prueba consiste en un A/B testing centrado en el cumplimiento de objetivos. Se diseñarán dos pruebas diferentes para los dos casos asignados, y se pedirá a los usuarios que realicen tareas concretas, como buscar un producto o completar un formulario. Cada grupo de usuarios interactuará con una de las versiones y se medirá si logran completar los objetivos. Esto permitirá determinar si las webs facilitan la consecución de los objetivos propuestos.
+
+La segunda prueba será un cuestionario SUS (System Usability Scale), que evalúa la usabilidad percibida por los usuarios. Tras usar la web asignada, los participantes completarán un cuestionario de 10 afirmaciones con una escala del 1 al 5. A partir de las respuestas se calculará una puntuación total sobre 100, donde un valor por encima de 70 indica una buena usabilidad. Esta prueba proporciona una visión subjetiva pero estandarizada de la experiencia de uso.
+
+La tercera prueba será un eyetracking, que permite analizar hacia dónde miran los usuarios mientras navegan por la web. Se registrarán los movimientos oculares para identificar las zonas más vistas, los elementos que captan más atención y si hay distracciones o confusión visual. Esto es útil para optimizar el diseño, mejorar la jerarquía visual y garantizar que los elementos importantes sean fácilmente detectables.
 
 
 ### 4.c Cuestionario SUS
 ![Método UX](img/Survey.png) 
 ----
 
->>> Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B). Para calcular la valoración numérica y la etiqueta linguistica resultante usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx). Previamente conozca en qué consiste la escala SUS y cómo se interpretan sus resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
->>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados 
+Los resultados de este cuestionario para los cuatro usuarios se encuentra en: [Excel SUS](P4/CuestionarioSUS.xlsx)
 
+En la web del caso A se obtiene una valoración media aceptable, con buen desempeño en facilidad de uso y manejo. Sin embargo, la experiencia de Manuela sugiere que puede no ser igual de intuitiva para todos los perfiles, por lo que sería recomendable simplificar y unificar el diseño para mejorar la consistencia y reducir la sensación de complejidad.
+
+En la web del caso B se presenta una mejor aceptación general. Es más equilibrada entre los dos usuarios y refleja una experiencia más positiva en términos de integración, manejo y aprendizaje. Aun así, podría ser útil revisar aspectos visuales o de navegación inicial para aumentar el interés de los usuarios en volver y reducir aún más la percepción de complejidad.
 
 ### 4.d A/B Testing
 ![Método UX](img/ABtesting.png) 
