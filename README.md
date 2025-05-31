@@ -275,25 +275,17 @@ En la web del caso B se presenta una mejor aceptación general. Es más equilibr
 ![Método UX](img/eye-tracking.png)
 ----
 
->>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
+El experimento se diseñó para comparar la usabilidad de las dos landing pages de los casos A y B. Se les analizó mediante eyetracking utilizando la herramienta [Realeye](https://www.realeye.io/es), que permite registrar los movimientos oculares con una cámara web. Esto permitió evaluar el comportamiento visual de los usuarios, ayudando a identificar los elemtos que más llaman la atención de ambas webs.
 
+![experimento](P4/EyetrackingB2.png)  
 
-![experimento](img/experimentoET.png)  
->>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
-
->>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
-
+Todas las imágenes de las pruebas se encuentran en la carpeta P4.
 
 ### 4.f Usability Report de B
 ![Método UX](img/usability-report.png) 
 -----
 
->>> Añadir report de usabilidad para práctica B (la de los compañeros) aportando resultados y valoración de cada debilidad de usabilidad. 
->>> Enlazar aqui con el archivo subido a P4/ que indica qué equipo evalua a qué otro equipo.
-
->>> Complementad el Case Study en su Paso 4 con una Valoración personal del equipo sobre esta tarea
-
-
+El Usability Report para el caso B se encuentra en el archivo: [Usability Report](P4/P4_UsabReport_Mamallema_doneby_DIU3_ExtremosYDuros.md)
 
 <br>
 
