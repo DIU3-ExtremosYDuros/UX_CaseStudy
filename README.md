@@ -269,7 +269,7 @@ En la web del caso B se presenta una mejor aceptación general. Es más equilibr
 ![Método UX](img/ABtesting.png) 
 -----
 
->>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
+El reporte con los resultados se puede ver en Maze a través de este link: [Maze]([P4/CuestionarioSUS.xlsx](https://app.maze.co/report/New-maze-1/37hia7mb6uiyy0/intro))
 
 ### 4.e Aplicación del método Eye Tracking 
 ![Método UX](img/eye-tracking.png)
