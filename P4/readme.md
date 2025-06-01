@@ -20,11 +20,10 @@ La segunda prueba será un cuestionario SUS (System Usability Scale), que evalú
 La tercera prueba será un eyetracking, que permite analizar hacia dónde miran los usuarios mientras navegan por la web. Se registrarán los movimientos oculares para identificar las zonas más vistas, los elementos que captan más atención y si hay distracciones o confusión visual. Esto es útil para optimizar el diseño, mejorar la jerarquía visual y garantizar que los elementos importantes sean fácilmente detectables.
 
 - Realización del Cuestionario SUS para usuarios y casos A y B. -> [Excel SUS](CuestionarioSUS.xlsx)
-- Tabla A/B Testing con resultados para A y B
+- A/B Testing con resultados para A y B -> [Link de Resultados en Maze](https://app.maze.co/report/ReMade/37hia7mb6uiyy0/intro)
 - Eye Tracking para B -> [Eyetracking 1](EyetrackingB1.png) y [Eyetracking 2](EyetrackingB2.png)
 - Usability Report del Caso B, con toda la información recabada del caso B -> [Usability Report](P4_UsabReport_Mamallema_doneby_DIU3_ExtremosYDuros.md)
 
 - Conclusiones
 
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Termine con la seccion de Conclusiones para aportar una valoración final del equipo sobre la propia realización de la práctica
+El uso de pruebas de usabilidad durante esta práctica nos permitió entender cómo los usuarios interactúan con el prototipo creado en las prácticas anteriores: planificamos pruebas con escenarios realistas, buscamos a distintos usuarios en nuestro entorno para que las hicieras y recopilamos los datos cualitativosgeneraron. Trabajar con estas técnicas que nunca habiamos usado antes, nos enseñó a estructurar correctamente las pruebas, a analizar los patrones de comportamiento de los usuarios y a detectar mejoras y debilidades de las webs con argumentos objetivos, fortaleciendo así la capacidad del equipo para detectar puntos de fricción y garantizar una experiencia más intuitiva.
