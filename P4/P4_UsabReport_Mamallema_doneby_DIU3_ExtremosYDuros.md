@@ -63,10 +63,7 @@ Por otro lado, en las pruebas de eyetracking si que ha habido alguna diferencia 
 
 ## 4 CONCLUSIONES 
 
-
-
-(qué podemos extraer de conclusion con las pruebas de usabilidad efectuadas)
-
+Las pruebas mostraron que la elección de los colores y la jerarquía del contenido consiguen guiar bien al usuario: el encabezado principal y el botón de “Modela tu talento…”) consiguen captar la atención rápidamente, y la sección de cursos se sitúa en el lugar esperado dentro del flujo de la aplicación. Sin embargo, algunos elementos secundarios como los “Filtros” y los iconos del carrito o del perfil pasan muy desapercibidos, y el contraste de algunos textos se ve afectado en pantallas que no son muy grandes.
 
 
 #### Incidencias
@@ -76,20 +73,17 @@ No ha habido ninguna incidencia.
 
 #### Valoración 
 
-* (Puntos Positivos a destacar)
-
+* Existe una coherencia visual de los colores y las fotografías que se usan con la temática de la web.
+* La jerarquía de la web es clara, los usuarios pueden seguir un flujo natural desde el título, imagen, botón y cursos.
+* Es sencillo navegar por la web, se puede acceder a todas las secciones en pocos clicks.
 
 
 #### Recomendaciones y propuesta de mejoras: 
 
-* (Puntos de mejora)
-
-
-
-
-
+* Los textos más largos son un poco dificiles de leer, no hay contraste suficiente.
+* Los botones son algo difíciles de pulsar por su tamaño.
 
 
 #### Valoración de la prueba de usabilidad (self-assesment)
 
-(valoración personal de si han sido útiles estas técnicas para detectar errores ocultos o falllos de usabilidad en este caso )
+La combinación del cuestionario SUS y el eye‐tracking resultaron ser muy efectivas: SUS proporcionó una visión rápida del nivel de usabilidad (con una puntuación cercana a ser buena), mientras que el eye‐tracking reveló zonas de atención frías (iconos secundarios) y otras calientes (texto principal de presentación). Juntas, estas técnicas nos ayudaron a detectar algunos errores que no eramos capaces de ver a simple vista.
