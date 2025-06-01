@@ -21,7 +21,7 @@ La tercera prueba será un eyetracking, que permite analizar hacia dónde miran 
 
 - Realización del Cuestionario SUS para usuarios y casos A y B. -> [Excel SUS](CuestionarioSUS.xlsx)
 - Tabla A/B Testing con resultados para A y B
-- Eye Tracking para B
+- Eye Tracking para B -> [Eyetracking 1](EyetrackingB1.png) y [Eyetracking 2](EyetrackingB2.png)
 - Usability Report del Caso B, con toda la información recabada del caso B -> [Usability Report](P4_UsabReport_Mamallema_doneby_DIU3_ExtremosYDuros.md)
 
 - Conclusiones
